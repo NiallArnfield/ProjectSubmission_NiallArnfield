@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 8dfd665a362d05d47ad0f59af300d696
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Forest Path 1
+    100002: Forest Path 2
+    100004: Forest Path 3
+    100006: Forest Path 4
+    100008: Forest Path 5
+    100010: Graveyard 1
+    100012: Graveyard 2
+    100014: Graveyard 3
+    100016: Graveyard 4
+    100018: Tarmac
+    100020: Terrain Middle Island
+    100022: Terrain Outside 1
+    100024: Terrain Outside 2
+    100026: Terrain Outside 3
+    100028: Terrain Outside 4
+    100030: Terrain Outside 5
+    100032: Terrain Outside 6
+    100034: Terrain Outside 7
+    100036: Terrain Outside 8
+    100038: //RootNode
+    400000: Forest Path 1
+    400002: Forest Path 2
+    400004: Forest Path 3
+    400006: Forest Path 4
+    400008: Forest Path 5
+    400010: Graveyard 1
+    400012: Graveyard 2
+    400014: Graveyard 3
+    400016: Graveyard 4
+    400018: Tarmac
+    400020: Terrain Middle Island
+    400022: Terrain Outside 1
+    400024: Terrain Outside 2
+    400026: Terrain Outside 3
+    400028: Terrain Outside 4
+    400030: Terrain Outside 5
+    400032: Terrain Outside 6
+    400034: Terrain Outside 7
+    400036: Terrain Outside 8
+    400038: //RootNode
+    2300000: Forest Path 1
+    2300002: Forest Path 2
+    2300004: Forest Path 3
+    2300006: Forest Path 4
+    2300008: Forest Path 5
+    2300010: Graveyard 1
+    2300012: Graveyard 2
+    2300014: Graveyard 3
+    2300016: Graveyard 4
+    2300018: Tarmac
+    2300020: Terrain Middle Island
+    2300022: Terrain Outside 1
+    2300024: Terrain Outside 2
+    2300026: Terrain Outside 3
+    2300028: Terrain Outside 4
+    2300030: Terrain Outside 5
+    2300032: Terrain Outside 6
+    2300034: Terrain Outside 7
+    2300036: Terrain Outside 8
+    3300000: Forest Path 1
+    3300002: Forest Path 2
+    3300004: Forest Path 3
+    3300006: Forest Path 4
+    3300008: Forest Path 5
+    3300010: Graveyard 1
+    3300012: Graveyard 2
+    3300014: Graveyard 3
+    3300016: Graveyard 4
+    3300018: Tarmac
+    3300020: Terrain Middle Island
+    3300022: Terrain Outside 1
+    3300024: Terrain Outside 2
+    3300026: Terrain Outside 3
+    3300028: Terrain Outside 4
+    3300030: Terrain Outside 5
+    3300032: Terrain Outside 6
+    3300034: Terrain Outside 7
+    3300036: Terrain Outside 8
+    4300000: Terrain Outside 6
+    4300002: Terrain Outside 7
+    4300004: Terrain Outside 8
+    4300006: Terrain Outside 5
+    4300008: Terrain Outside 4
+    4300010: Terrain Outside 3
+    4300012: Terrain Outside 2
+    4300014: Terrain Outside 1
+    4300016: Forest Path 5
+    4300018: Graveyard 4
+    4300020: Forest Path 4
+    4300022: Graveyard 3
+    4300024: Forest Path 3
+    4300026: Graveyard 2
+    4300028: Forest Path 2
+    4300030: Graveyard 1
+    4300032: Forest Path 1
+    4300034: Tarmac
+    4300036: Terrain Middle Island
+    6400000: Forest Path 1
+    6400002: Forest Path 2
+    6400004: Forest Path 3
+    6400006: Forest Path 4
+    6400008: Forest Path 5
+    6400010: Graveyard 1
+    6400012: Graveyard 2
+    6400014: Graveyard 3
+    6400016: Graveyard 4
+    6400018: Tarmac
+    6400020: Terrain Middle Island
+    6400022: Terrain Outside 1
+    6400024: Terrain Outside 2
+    6400026: Terrain Outside 3
+    6400028: Terrain Outside 4
+    6400030: Terrain Outside 5
+    6400032: Terrain Outside 6
+    6400034: Terrain Outside 7
+    6400036: Terrain Outside 8
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

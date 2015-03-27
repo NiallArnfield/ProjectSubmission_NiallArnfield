@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 458d37e2e01d369429bcb68597479576
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bannerTexture: {fileID: 2800000, guid: 4a54cccf2623af74bb16c41062fecebc, type: 3}
+  - startTexture: {fileID: 2800000, guid: b6ae6a7ed0f56374ead7aa96e3dae514, type: 3}
+  - howToPlayTexture: {fileID: 2800000, guid: 9a8fd529504b7934cbcf789ab53e1e94, type: 3}
+  - quitTexture: {fileID: 2800000, guid: a825895b6c163ff4e86861d554d2bcb3, type: 3}
+  - controlsRulesTexture: {fileID: 2800000, guid: 1843a635cea711042b19198e5da1adc3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
